@@ -2,9 +2,8 @@
 
 - 👤 **Who**: Vladislav Chubrikov `@a1Yola`
 - ✉️ **Email**: [chubrikov.vlad@ya.ru](mailto:chubrikov.vlad@ya.ru)
-- 💬 **Telegram**: [`vladislavchubrikov`](https://t.me/vladislavchubrikov)
-- 👔 **HeadHunter**: [hh.vladislavchubrikov](https://hh.ru/resume/41dd36abff0b0add4c0039ed1f4779536b754c)
-- 📄 **CV**: [cv.vladislavchubrikov](https://drive.google.com/file/d/1cvrGh_XIOMYN0TeVNVUksUCyP7_MOeWC/view?usp=sharing)
+- 💬 **Telegram**: [`@vladislavchubrikov`](https://t.me/vladislavchubrikov)
+- 👔 **LinkedIn**: [linkedin.profile](https://www.linkedin.com/in/vladislav-chubrikov-00922736b/)
 
 ## 🧠 Algorithmic Skills
 [![LeetCode Profile](https://img.shields.io/badge/Profile-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vladislavchubrikov/)
