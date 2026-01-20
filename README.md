@@ -11,4 +11,4 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vladislavchubrikov?theme=light&font=baloo&ext=heatmap&border=0)](https://leetcode.com/vladislavchubrikov/)
 ### :octocat: Repositories
 [![LeetCode Solutions](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a1Yola/leet-code)
-[![CodeRun Solutions](https://img.shields.io/badge/CodeRun-ff87ff?style=for-the-badge&logo=github&logoColor=1e1e1e)](https://github.com/a1Yola/coderun-solutions)
+[![CodeRun Solutions](https://img.shields.io/badge/CodeRun-ff87ff?style=for-the-badge&logo=github&logoColor=1e1e1e)](https://github.com/a1Yola/coderun)
